@@ -1,102 +1,78 @@
 ---
-name: Adicionar nova vaga
-about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+Front-end Developer Sênior - Full home office
 
----
-
-<!-- 
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
-
-!!! Temos 4 regrinhas básicas: https://git.io/JG3Z9 !!!
-
-Não faça distinção de gênero no título da vaga.
-
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
-
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
-==================================================
--->
-
-<!--
-==================================================
-Caso a vaga for remoto durante a pandemia deixar a linha abaixo
-==================================================
--->
-> Vaga Remota durante a pandemia
+> Vaga Remota 
 
 ## Nossa empresa
 
-Exemplo: Aqui na Corporação ACME somos líderes em...
+Somos uma empresa que é a-pai-xo-na-da por tecnologia, que através do desenvolvimento de software e processos, buscamos soluções inovadoras e totalmente customizadas para cada um dos nossos clientes a fim de alcançar o melhor resultado, independente da tecnologia utilizada.
+
+Além disso, estamos em um ritmo de crescimento a-ce-le-ra-do, então se você curte desafios, busca evoluir e ama tecnologia, temos aqui um time para chamar de seu! Pois adoramos reconhecer e potencializar o desenvolvimento dos nossos Codenappers.
+
+#VemPraCode ♥
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+A pessoa desenvolvedora Front End participará de um projeto que desenvolverá jogos utilizando HTML5, javaScript ou Typescript.
 
 ## Local
 
-Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+Remoto
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+
+HTML5, JavaScript/Typescript e CSS
+Desenvolvimento de jogos ou aplicações da Web, de preferência usando Typescript ou JavaScript; 
+Desenvolvimento orientado a objeto; 
+Inglês avançado (conversação).
 
 **Desejáveis:**
 - conhecimentos em ruby on rails
 - conhecimentos em C#
 
 **Diferenciais:**
-- projetos opensource
+Padrões de projeto e arquitetura; 
+Testes unitários para garantir a qualidade do software desenvolvido; 
+Ferramentas de depuração de código; 
+A importância de manter um relacionamento colaborativo para desenvolvimento e apoio da equipe. 
 
 ## Benefícios
 
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
+Horário flexível e possibilidade de home office ou modelo híbrido;
+No dress-code;
+Gympass;
+Acesso gratuito à plataforma Udemy;
+Celebração de datas importantes (Seu aniversário, aniversário Code n’ App, etc.);
+Cesta recém-nascido;
+Cafézinho e biscoitinhos à vontade, além de puffs para cochilar nos intervalos;
+Empréstimo consignado;
+Assessoria e educação financeira;
+Oportunidade de fazer parte de um time de feras e com muitas experiências para compartilhar.
 
-**Diferenciais:**
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
 
 ## Contratação
 
-PJ a combinar
+PJ 
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+https://codenapp.gupy.io/jobs/2918985
 
-## Tempo médio de feedbacks
 
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
 ## Labels
 <!-- retire os labels que não fazem sentido à vaga -->
 
 #### Alocação
-- Alocado
 - Remoto
 
 #### Regime
-- CLT
-- Estágio
-- Freela
 - PJ
 
 #### Nível
-- Júnior
-- Pleno
 - Sênior
-- Especialista
+
 
 
